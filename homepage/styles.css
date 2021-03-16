@@ -1,0 +1,50 @@
+body {
+    background-color :white;
+text-align :center;
+
+
+
+}
+
+#index{
+
+  background-image: url('WashingtonSquarePark.png');
+  background-size : cover;
+  height : 100vh;
+
+}
+
+
+#map{
+
+  height : 100vh;
+}
+#essay{
+  color:white;
+
+background-image: url('park.jpg');
+font-family:Brush Script MT;
+background-size : cover;
+height : 100vh;
+}
+#title{
+  font-family:'Times New Roman', serif;
+  font-size: 32px;
+}
+
+#about{
+  font-family:hero-text;
+
+}
+
+
+#me{
+background-image: url('nest.jpg');
+  background-size : cover;
+  height : 100vh;
+}
+
+#me2{
+  margin-top:20%;
+  width:95%;
+}
